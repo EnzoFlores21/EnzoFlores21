@@ -1,5 +1,5 @@
-Hola 👋, soy Enzo Flores
-Desarollador Full-Stack
+# Hola 👋, soy Enzo Flores
 
-🌱 Actualmente estoy aprendiendo Backend
-👯 Busco colaborar en proyectos Open Source
+**Desarollador Full-Stack**
+- 🌱 Actualmente estoy aprendiendo **Backend**
+- 👯 Busco colaborar en proyectos **Open Source**
